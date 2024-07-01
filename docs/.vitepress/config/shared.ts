@@ -41,7 +41,7 @@ export const shared = defineConfig({
     ['meta', { property: 'og:title', content: 'ViteDoc | Vite & Vue Powered Static Site Generator' }],
     ['meta', { property: 'og:site_name', content: 'ViteDoc' }],
     ['meta', { property: 'og:image', content: 'https://vitepress.dev/vitepress-og.jpg' }],
-    ['meta', { property: 'og:url', content: 'https://vitepress.dev/' }],
+    ['meta', { property: 'og:url', content: 'https://www.doukus.cn/' }],
     ['script', { src: 'https://cdn.usefathom.com/script.js', 'data-site': 'AZBRSFGG', 'data-spa': 'auto', defer: '' }]
   ],
 
@@ -49,7 +49,7 @@ export const shared = defineConfig({
     logo: { src: '/vitepress-logo-mini.svg', width: 24, height: 24 },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/zglclub' }
     ],
 
     search: {
